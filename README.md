@@ -1,3 +1,2 @@
-# Wordpress Dev-Theme
+# Wordpress Dev-Theme V 1.1
 
-# Developer Theme V1.0
